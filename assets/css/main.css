@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+    width: 100%;
+    background: #eee;
+}
+
+.content-wrapper {
+    width: 75%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
